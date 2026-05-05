@@ -12,6 +12,7 @@ Simple To-Do List web app built using HTML and JavaScript.
 
 * HTML
 * JavaScript
+* CSS
 
 ## 🌐 Live Demo
 
