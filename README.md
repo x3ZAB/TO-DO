@@ -14,9 +14,6 @@ Simple To-Do List web app built using HTML and JavaScript.
 * JavaScript
 * CSS
 
-## 🌐 Live Demo
-
-👉 https://x3ZAB.github.io/TO-DO/
 
 ## 📌 Notes
 

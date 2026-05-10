@@ -10,6 +10,16 @@ button.onclick = function () {
 
   li.textContent = taskText;
 
+  let deleteBtn = document.createElement("button");
+
+  deleteBtn.textContent = "Delete";
+
+  deleteBtn.onclick = function () {
+    li.remove();
+  };
+
+  li.appendChild(deleteBtn);
+
   let list = document.getElementById("taskList");
 
   list.appendChild(li);
